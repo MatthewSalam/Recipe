@@ -51,6 +51,12 @@ img:hover{
     font-size: 15px;
     font-weight: 150;
 }
+.Child-Main-Box h2{
+    color: hsl(14, 45%, 36%);
+}
+.Child-Main-Box h3{
+    color: hsl(14, 45%, 36%);
+}
 .Prep-Box{
     margin-top: 30px !important;
     /* display: none; */
